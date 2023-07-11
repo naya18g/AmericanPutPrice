@@ -1,6 +1,9 @@
 # The Calculation of the American Put Option Price from the Stock
 # Prediction using the models LSTM, GBM and SARIMAX
 
+
+
+
 ## Aim of the project :- 
 The 3 above mentioned models have been used to determine
 the Stock prices separately. Then their weighted values have been summed up to
