@@ -23,5 +23,6 @@ vii) Scikit-learn
 viii) Statsmodels
 ix) Plotly
 
-![Uploading Screenshot (169).png…]()
 
+
+![Screenshot (169)](https://github.com/naya18g/AmericanPutPrice/assets/89319878/86eafdac-6089-4f43-ad45-9f00d0d3f54a)
