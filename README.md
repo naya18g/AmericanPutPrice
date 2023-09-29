@@ -11,3 +11,17 @@ used for calculating the Option Price.
 
 ## Data :- 
 The ORACLE Corporation NYSE data has been extracted from the Yfinance.
+
+## Technologies Used :-
+i) Numpy
+ii) Pandas
+iii) Matplotlib
+iv) Seaborn
+v) Tensorflow
+vi) Keras
+vii) Scikit-learn
+viii) Statsmodels
+ix) Plotly
+
+![Uploading Screenshot (169).png…]()
+
